@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "930460715504",
+    "firebase_url": "https://proyectofirebase7mo-default-rtdb.firebaseio.com",
+    "project_id": "proyectofirebase7mo",
+    "storage_bucket": "proyectofirebase7mo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930460715504:android:b9431a8fa2146d81313535",
+        "android_client_info": {
+          "package_name": "com.example.tareas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930460715504-8o0giaq2kvq50kcg2hamrp3kqnco198i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tareas",
+            "certificate_hash": "e2eb4a48b5b86941be7d402979cd48ff4e546dc9"
+          }
+        },
+        {
+          "client_id": "930460715504-k7s66vluova7rekj12ae5rseuk85temb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwkg7L7UX790L5xAdzGvIKHiMGSi6h0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930460715504-k7s66vluova7rekj12ae5rseuk85temb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
